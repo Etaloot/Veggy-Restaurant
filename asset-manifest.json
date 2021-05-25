@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Etaloot/Veggy-Restaurant.git/static/css/main.c977c9e2.chunk.css",
+    "main.js": "/Etaloot/Veggy-Restaurant.git/static/js/main.35dadf94.chunk.js",
+    "main.js.map": "/Etaloot/Veggy-Restaurant.git/static/js/main.35dadf94.chunk.js.map",
+    "runtime-main.js": "/Etaloot/Veggy-Restaurant.git/static/js/runtime-main.b951af15.js",
+    "runtime-main.js.map": "/Etaloot/Veggy-Restaurant.git/static/js/runtime-main.b951af15.js.map",
+    "static/js/2.11c7387e.chunk.js": "/Etaloot/Veggy-Restaurant.git/static/js/2.11c7387e.chunk.js",
+    "static/js/2.11c7387e.chunk.js.map": "/Etaloot/Veggy-Restaurant.git/static/js/2.11c7387e.chunk.js.map",
+    "index.html": "/Etaloot/Veggy-Restaurant.git/index.html",
+    "static/css/main.c977c9e2.chunk.css.map": "/Etaloot/Veggy-Restaurant.git/static/css/main.c977c9e2.chunk.css.map",
+    "static/js/2.11c7387e.chunk.js.LICENSE.txt": "/Etaloot/Veggy-Restaurant.git/static/js/2.11c7387e.chunk.js.LICENSE.txt",
+    "static/media/logo3.64c95f82.png": "/Etaloot/Veggy-Restaurant.git/static/media/logo3.64c95f82.png",
+    "static/media/menu.babd5d81.jpg": "/Etaloot/Veggy-Restaurant.git/static/media/menu.babd5d81.jpg",
+    "static/media/index.css": "/Etaloot/Veggy-Restaurant.git/static/media/vegangood.8b1206b8.jpg",
+    "static/media/s1.7eef79a9.jpg": "/Etaloot/Veggy-Restaurant.git/static/media/s1.7eef79a9.jpg",
+    "static/media/s2.c01dc2e3.jpg": "/Etaloot/Veggy-Restaurant.git/static/media/s2.c01dc2e3.jpg",
+    "static/media/s3.53f05a19.jpg": "/Etaloot/Veggy-Restaurant.git/static/media/s3.53f05a19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b951af15.js",
+    "static/js/2.11c7387e.chunk.js",
+    "static/css/main.c977c9e2.chunk.css",
+    "static/js/main.35dadf94.chunk.js"
+  ]
+}
